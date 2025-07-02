@@ -1,7 +1,7 @@
 package PrimeiroDesafio
 
 /*Crie um programa em Kotlin que funcione como uma calculadora com as quatro operações básicas (+, -, *, /),
-utilizando funções e tratamento de exceções. ]
+utilizando funções e tratamento de exceções.
 O programa deve:
 Ler dois números do usuário, validando entradas inválidas.
 Ler o operador, aceitando apenas "+", "-", "*" ou "/".
